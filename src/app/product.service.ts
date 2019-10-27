@@ -14,6 +14,6 @@ private _albumUrl = '../assets/album.json';
         response.json();
       }
       )
-    )
+    );
   }
 }
